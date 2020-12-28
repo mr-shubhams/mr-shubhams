@@ -35,4 +35,4 @@ Hello World, I'm Shubham Sharma 👋 ।। हिमाचली🏔 जिग�
 [facebook]: https://www.facebook.com/official.shubhams/
 [instagram]: https://www.instagram.com/official.shubhams/
 [linkedin]: https://www.linkedin.com/in/mr-shubham/
-[whatsapp]: https://api.whatsapp.com/send?phone=918988222200&text= Hi Mr. Shubham
+[whatsapp]: https://api.whatsapp.com/send?phone=918988222200&text=Hi Mr. Shubham
