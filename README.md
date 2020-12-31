@@ -21,14 +21,14 @@ Hello World, I'm Shubham Sharma 👋 ।। हिमाचली🏔 जिग�
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Shubham Sharma's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=officialshubhams&show_icons=true&hide_border=true" />
+  <img align="left" alt="Shubham Sharma's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mr-shubhams&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Shubham Sharma's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialshubhams" />
+<img align="left" alt="Shubham Sharma's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-shubhams" />
 
 </details>
 
