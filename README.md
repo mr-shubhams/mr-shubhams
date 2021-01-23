@@ -32,7 +32,7 @@ Hello World, I'm Shubham Sharma 👋 ।। हिमाचली🏔 जिग�
 
 </details>
 
-[facebook]: https://www.facebook.com/official.shubhams/
-[instagram]: https://www.instagram.com/official.shubhams/
+[facebook]: https://www.facebook.com/mr.shubhams
+[instagram]: https://www.instagram.com/mr_shubhams_/
 [linkedin]: https://www.linkedin.com/in/mr-shubham/
 [whatsapp]: https://api.whatsapp.com/send?phone=918988222200&text=Hi%20Mr.%20Shubham
