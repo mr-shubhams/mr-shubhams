@@ -1,4 +1,4 @@
-Hello World, I'm Shubham Sharma 👋 ।। हिमाचली🏔 जिग्ररा शेर 🦁 OR 💓 पहाड़ो सा ।। 👑of12 August🎂🍺।। Simple & friendly🙂।। Always Positive☺।।💘Hacker😉।। #Programmer👨‍💻।।Photography 📷 Lover।।
+Hello World, I'm Shubham Sharma 👋 #Programmer👨‍💻।।Photography 📷 Lover।।
 <img align="right" alt="GIF" src="https://github.com/officialshubhams/Shubham-Sharma/blob/main/mr-shubham.gif?raw=true"  />
 
 
